@@ -205,7 +205,19 @@ export const SkillBars = [
 		// progressPercentage: "60",
 	},
 	{
+		Stack: "Ingress",
+		// progressPercentage: "60",
+	},
+	{
 		Stack: "Web Hosting",
+		// progressPercentage: "60",
+	},
+	{
+		Stack: "Virtualization",
+		// progressPercentage: "60",
+	},
+	{
+		Stack: "Containerization",
 		// progressPercentage: "60",
 	},
 ];
@@ -242,7 +254,7 @@ export const experience = [
 			"Integrated New Relic with the apps to send metrics and optimize the app.",
 			"Deployed Python and NodeJS apps to Nginx server on Google Compute and Contabo instances.",
 			"Dockerized apps and deployed them to Google Kubernetes Engine (GKE).",
-			"Used Nginx reverse proxy ingress to host multiple sites on a single GCP Compute which reduced monthly cost by 70$ - 80$ per month.",
+			"Implemented Nginx reverse proxy ingress to host multiple sites on a single GCP Compute which reduced cost by 70$ - 80$ per month.",
 		],
 	},
 	{
