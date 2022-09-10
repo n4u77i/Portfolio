@@ -7,7 +7,7 @@ export const greetings = {
 		"I'm a Software Engineer (Backend Developer) working in Python (Django, Flask, Fast API) & NodeJS (TypeScript). I mainly build the APIs (REST & GraphQL) and do the deployment stuff. \
 		I have dockerized Python and NodeJS apps, deployed them to Kubernetes cluster. I am also working in cloud platforms like Google Cloud and AWS.",
 	resumeLink:
-		"https://drive.google.com/uc?export=download&id=1ElDS9egzdv1XMPeLQtXopWp49HRIaq4n",
+		"https://drive.google.com/uc?export=download&id=1FHMtSxSCIDZd6v0MS80nFiv-uPmuge1Q",
 };
 
 export const openSource = {
